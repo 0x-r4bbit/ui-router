@@ -1,2 +1,9 @@
 bower_components
 node_modules
+# common
+node_modules
+.DS_Store
+*~
+
+# webstorm files
+.idea
